@@ -1,6 +1,3 @@
-
-# mlflow-cv-yolo
-
 # MLflow CV Tiny (YOLO) - Projet MLOps
 
 ## 📋 Description du Projet
