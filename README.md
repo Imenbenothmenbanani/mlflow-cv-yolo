@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # MLflow CV Tiny (YOLO)
 
 Objectif : tracer et comparer plusieurs runs YOLO tiny sur un mini-dataset (1 classe `person`) avec MLflow.
