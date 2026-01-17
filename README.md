@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLflow CV Tiny (YOLO)
 
 Objectif : tracer et comparer plusieurs runs YOLO tiny sur un mini-dataset (1 classe `person`) avec MLflow.
@@ -23,3 +24,7 @@ UI MLflow : http://localhost:5000
 
 
 Décision : compléter reports/templates/decision_template.md (captures MLflow à l’appui).
+=======
+# mlflow-cv-yolo
+TP4
+>>>>>>> 8323441dcfd3fd7355b4deaf0250d4a7a6097072
