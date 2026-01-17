@@ -199,11 +199,11 @@ python scripts/register_model.py \
 
 | Métrique | Description |
 |----------|-------------|
-| **mAP@50** | Moyenne des Average Precision @ IoU 0.5 (principal KPI) |
-| **mAP50-95** | Moyenne AP @ IoU [0.5:0.95] (plus strict) |
-| **Precision** | % de prédictions correctes parmi celles faites |
-| **Recall** | % d'objets réels détectés |
-| **Loss** | Perte d'entraînement (convergence) |
+| **mAP@50** | 0.3227 (32.3%) |
+| **mAP50-95** | 0.2728|
+| **Precision** | 0.008 |
+| **Recall** |0.7742 |
+
 
 ---
 
