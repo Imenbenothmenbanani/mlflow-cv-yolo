@@ -1,0 +1,4 @@
+FROM ghcr.io/mlflow/mlflow:latest
+
+# Install boto3 for S3/MinIO support
+RUN pip install --no-cache-dir boto3
