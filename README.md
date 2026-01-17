@@ -1,8 +1,6 @@
 
-=======
 # mlflow-cv-yolo
 
-=======
 # MLflow CV Tiny (YOLO) - Projet MLOps
 
 ## 📋 Description du Projet
@@ -374,4 +372,4 @@ Pour toute question ou problème, veuillez :
 ---
 
 **Dernière mise à jour** : 17 janvier 2026
->>>>>>> 6e81f133145ade1f3851b12a27a3af8a13484164
+
